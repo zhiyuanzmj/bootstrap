@@ -31,21 +31,21 @@
 ## 目录
 
 - [快速开始](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
+- [状态](#status)
+- [包括什么](#whats-included)
 - [Bugs 和问题](#bugs-and-feature-requests)
-- [Documentation](#documentation)
+- [文档](#documentation)
 - [贡献](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Copyright and license](#copyright-and-license)
+- [社区](#community)
+- [版本](#versioning)
+- [创作者](#creators)
+- [版权和许可](#copyright-and-license)
 
-## Quick start
+## 快速开始
 
 有几种快速开始选项：
 
-- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.1.3.zip)
+- [下载最新版本。](https://github.com/twbs/bootstrap/archive/v4.1.3.zip)
 - Clone 版本库: `git clone 
     https://github.com/twbs/bootstrap.git`
 - 用 [npm](https://www.npmjs.com/) 安装: `npm install bootstrap`
@@ -115,7 +115,7 @@ Bootstrap的文档包含在根目录中的这个repo中，它是用 [Jekyll](htt
 
 文档搜索由 [Algolia's DocSearch](https://community.algolia.com/docsearch/) 提供支持。设置搜索? 确保在site/docs/4.1/assets/js/src/search.js文件中设置 `debug: true`。
 
-### Running documentation locally
+### 在本地运行文档
 
 1. 运行[工具设置](https://getbootstrap.com/docs/4.1/getting-started/build-tools/#tooling-setup)来安装Jekyll(站点构建器) 用`bundle install`安装Ruby依赖。
 2. 运行 `npm install` 来安装 Node.js依赖.
@@ -124,7 +124,7 @@ Bootstrap的文档包含在根目录中的这个repo中，它是用 [Jekyll](htt
 
 通过阅读Jekyll的[文档](https://jekyllrb.com/docs/home/)了解关于使用Jekyll的更多信息。
 
-### Documentation for previous releases
+### 以前版本的文档
 
 - v2.3.2: [https://getbootstrap.com/2.3.2/](https://getbootstrap.com/2.3.2/)
 - v3.3.x: [https://getbootstrap.com/docs/3.3/](https://getbootstrap.com/docs/3.3/)
@@ -140,7 +140,7 @@ Bootstrap的文档包含在根目录中的这个repo中，它是用 [Jekyll](htt
 
 编辑器首选项可在[编辑器配置](https://github.com/twbs/bootstrap/blob/master/.editorconfig)中获得，以便在普通文本编辑器中轻松使用。更多信息，请访问[https://editorconfig.org/](https://editorconfig.org/)下载插件。
 
-## Community
+## 社区
 
 获取有关Bootstrap开发的更新以及与项目维护人员和社区成员的聊天方式。
 
@@ -151,7 +151,7 @@ Bootstrap的文档包含在根目录中的这个repo中，它是用 [Jekyll](htt
 - 可以在 Stack Overflow ([`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4) 标签) 上找到帮助.
 - 当开发者使用 [npm](https://www.npmjs.com/browse/keyword/bootstrap) 或类似的工具添加或修改Bootstrap的新功能时,应该在package文件中使用 `bootstrap` 关键字,来获得最多的传播的可能性.
 
-## Versioning
+## 版本
 
 为了实现发布周期的透明性并努力保持向后兼容性，Bootstrap在[语义版本控制准则](https://semver.org/)下维护。有时我们搞砸了，但我们会尽可能遵守这些规则。
 
