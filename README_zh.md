@@ -162,7 +162,7 @@ Documentation search is powered by [Algolia's DocSearch](https://community.algol
 - [https://twitter.com/fat](https://twitter.com/fat)
 - [https://github.com/fat](https://github.com/fat)
 
-## Thanks
+## 谢谢
 
 <a href="https://www.browserstack.com/">
   <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack Logo" width="192" height="42">
@@ -170,7 +170,7 @@ Documentation search is powered by [Algolia's DocSearch](https://community.algol
 
 感谢[ BrowserStack ](https://www.browserstack.com/)提供允许我们在真实浏览器中测试的基础架构！
 
-## Backers
+## 支持者
 
 谢谢所有支持者！🙏 [[成为支持者](https://opencollective.com/bootstrap#backer)]
 
